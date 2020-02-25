@@ -1,0 +1,13 @@
+.logo_img{
+  max-width:100px; 
+  margin-top: -7px;
+}
+.Footer{
+  background-color: darkturquoise;
+ text-align: right;
+  border-bottom-left-radius: 1%;
+  border-bottom-right-radius: 1%;
+}
+.Footer-list{
+  list-style-type:none ;
+}
